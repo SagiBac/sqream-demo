@@ -5,10 +5,11 @@ A Notebook demonstrating the multiple ways users can connect to [SQream Blue](ht
 * A Python 3.7+ environment
 * A Jupyter-friendly editor
 * The following Python packages:
-** [pysqream_blue_sqlalchemy](https://github.com/SQream/pysqream_blue_sqlalchemy)
-** matplotlib
-** jupysql
+    * `ipykernel`
+    * [pysqream_blue_sqlalchemy](https://github.com/SQream/pysqream_blue_sqlalchemy)
+    * `matplotlib`
+    * `jupysql` (or alternatively `ipython-sql`)
 
 The Python dependencies can be installed using `pip`:
 
-    pip install pysqream_blue_sqlalchemy jupysql matplotlib
+    pip install ipykernel pysqream_blue_sqlalchemy jupysql matplotlib
