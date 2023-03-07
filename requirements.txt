@@ -1,0 +1,5 @@
+jupysql
+ipykernel
+pysqream_blue_sqlalchemy
+pandas
+matplotlib

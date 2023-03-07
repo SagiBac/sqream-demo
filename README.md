@@ -15,4 +15,4 @@ A Notebook demonstrating the multiple ways users can connect to [SQream Blue](ht
 
 The Python dependencies can be installed using `pip`:
 
-    pip install ipykernel pysqream_blue_sqlalchemy jupysql matplotlib
+    pip install -r requirements.txt
